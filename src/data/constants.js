@@ -9,14 +9,15 @@ export const Bio = {
   name: "Deeksha G Shanbhag",
   roles: [
     "Programmer",
-    "Computer Science Student"
+    "Computer Science Student",
+    "Aspiring software developer"
   ],
   description:
-    " I am a driven individual deeply passionate about continual learning. Proficient in Java and Data Structures, with practical experience in various web development tools, I possess a broad range of skills in technology relevant to web development. My skill set reflects my commitment to ongoing growth and adaptation. I am seeking a dynamic career in Software Development where I can leverage my acquired expertise to achieve optimal outcomes." ,
+    " I have completed a Bachelor's in Computer Science and Engineering. Proficient in Java and Data Structures, with practical experience in various web development tools, I possess a broad range of skills in technology relevant to web development. My skill set reflects my commitment to ongoing growth and adaptation. I am seeking a dynamic career in Software Development where I can leverage my acquired expertise to achieve optimal outcomes." ,
 
   github: "https://github.com/Deeksha-G-S",
   resume:
-    "https://drive.google.com/file/d/1OzfVkX-NPHx0WLz9etw8fZUwLzBGwPyg/view?usp=sharing",
+    "https://drive.google.com/drive/u/1/folders/1qn4AiQSpCv6evc3DRJmLgbDiYYsSxkbm",
   linkedin: "https://www.linkedin.com/in/deeksha-g-shanbhag/",
   
 };
@@ -167,7 +168,7 @@ export const education = [
     img: "https://images.shiksha.com/mediadata/images/1683888050phphxE5yj.jpeg",
     school: "Atria Institute of Technology, Bangalore",
     date: "2020 - 2024",
-    grade: "8.84 CGPA",
+    grade: "8.91 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Atria Institute of Technology, Bangalore. I have completed 7 semesters and have a CGPA of 8.84 I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks",
     degree: "Computer Science and Engineering",
   },
