@@ -16,7 +16,7 @@ export const Bio = {
 
   github: "https://github.com/Deeksha-G-S",
   resume:
-    "https://drive.google.com/drive/u/1/folders/1qn4AiQSpCv6evc3DRJmLgbDiYYsSxkbm",
+    "https://drive.google.com/file/d/1934ONz0Asw1bNPz-rg3rBV4r__8pdday/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/deeksha-g-shanbhag/",
   
 };
