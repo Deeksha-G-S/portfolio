@@ -9,7 +9,6 @@ export const Bio = {
   name: "Deeksha G Shanbhag",
   roles: [
     "Programmer",
-    "Computer Science Student",
     "Aspiring software developer"
   ],
   description:
